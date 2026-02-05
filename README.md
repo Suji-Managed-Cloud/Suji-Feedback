@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://suji.fr/favicon.svg" width="60" alt="Suji logo" />
+  <img src=".github/logo.svg" width="60" alt="Suji logo" />
 </p>
 
 <h1 align="center">Suji Feedback</h1>
