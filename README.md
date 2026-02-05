@@ -56,7 +56,7 @@ We track our public roadmap using [GitHub Projects](https://github.com/orgs/Suji
 | **In Progress** | Actively being worked on |
 | **Shipped** | Released and available to all users |
 
-> [View the full roadmap →](https://github.com/orgs/Suji-Managed-Cloud/projects)
+> [View the full roadmap →](https://github.com/orgs/Suji-Managed-Cloud/projects/2)
 
 ## Links
 
